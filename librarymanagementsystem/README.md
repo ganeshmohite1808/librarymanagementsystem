@@ -1,5 +1,5 @@
 # Library-Management-System-Core-Java-Project
-This console-based Library Management System (LMS) project is implemented in Core Java, providing essential functionalities for managing a library's book inventory. The system follows the widely adopted Model-View-Controller (MVC) architectural pattern to enhance maintainability, scalability, and code organization.  The system includes features for adding, removing, updating, and fetching books, offering a practical solution for librarians to streamline their daily tasks.   
+Built entirely in Java, this console-based library management system offers efficient book management functionalities. Users can easily add, remove, and update book records, as well as handle borrower information and library transactions seamlessly through a straightforward command-line interface.   
 
 
 **MVC Architecture**
