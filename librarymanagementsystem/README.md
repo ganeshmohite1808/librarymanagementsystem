@@ -1,6 +1,15 @@
 # Library-Management-System-Core-Java-Project
 Built entirely in Java, this console-based library management system offers efficient book management functionalities. Users can easily add, remove, and update book records, as well as handle borrower information and library transactions seamlessly through a straightforward command-line interface.   
 
+**Steps To Create Maven Project**
+
+**Step 1** : Open Eclipse and Press CTRL + N
+
+**Step 2** : Search Maven Project and then click on src folder
+
+**Step 3** : Search Package then create 3 new packages like Model, View and Controller.
+
+**Step 4** : Search for Class and create new Classes in each packages.
 
 **MVC Architecture**
 
